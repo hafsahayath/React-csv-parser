@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-csv-parser/static/css/main.aeb15f9a.chunk.css",
+    "main.js": "/React-csv-parser/static/js/main.c4abedfe.chunk.js",
+    "main.js.map": "/React-csv-parser/static/js/main.c4abedfe.chunk.js.map",
+    "runtime-main.js": "/React-csv-parser/static/js/runtime-main.91a4c35b.js",
+    "runtime-main.js.map": "/React-csv-parser/static/js/runtime-main.91a4c35b.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/React-csv-parser/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.661a74dc.chunk.js": "/React-csv-parser/static/js/2.661a74dc.chunk.js",
+    "static/js/2.661a74dc.chunk.js.map": "/React-csv-parser/static/js/2.661a74dc.chunk.js.map",
+    "index.html": "/React-csv-parser/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/React-csv-parser/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.aeb15f9a.chunk.css.map": "/React-csv-parser/static/css/main.aeb15f9a.chunk.css.map",
+    "static/js/2.661a74dc.chunk.js.LICENSE.txt": "/React-csv-parser/static/js/2.661a74dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91a4c35b.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.661a74dc.chunk.js",
+    "static/css/main.aeb15f9a.chunk.css",
+    "static/js/main.c4abedfe.chunk.js"
+  ]
+}
